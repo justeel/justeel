@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 About Me 
 
 - 🌱 I’m currently learning Backend, Frontend
-- 📫 How to reach me: email
+- 📫 How to reach me: xhaktm1357@gmail.com
 
 ## 💫 My skills
 
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-&nbsp; <a href="mailto:email" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:xhaktm1357@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 
