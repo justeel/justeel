@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 <h3> My skills </h3>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=justeel&show_icons=true&theme=radical&title_color=8E2DE2&text_color=aaa&icon_color=8E2DE2">
+## 🐱 git status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justeel&theme=radical&title_color=8E2DE2&text_color=fff)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justeel&show_icons=true&theme=tokyonight)  
+
+## 🏷 top langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justeel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
