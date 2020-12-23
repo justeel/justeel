@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Backend, Frontend
 - 📫 How to reach me: email
 
-<h3> My skills </h3>
+<h3> 💫 My skills </h3>
 
 
 ## 🐱 git status
