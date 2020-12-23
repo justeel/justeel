@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> 👨🏻‍💻 About Me </h3>
+## 👨🏻‍💻 About Me 
 
 - 🌱 I’m currently learning Backend, Frontend
 - 📫 How to reach me: email
 
-<h3> 💫 My skills </h3>
+## 💫 My skills
 
 
 ## 🐱 git status
