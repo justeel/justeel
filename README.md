@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 ## 💫 My skills
 
 
-## 🐱 git status
+## My Github Status
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justeel&show_icons=true&theme=tokyonight)  
 
-## 🏷 top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justeel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
