@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 &nbsp; <a href="mailto:email" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
