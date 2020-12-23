@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> 👨🏻‍💻 About Me
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🌱 I’m currently learning Backend, Frontend
 - 📫 How to reach me: email
