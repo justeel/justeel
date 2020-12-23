@@ -16,3 +16,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 👨🏻‍💻 About Me
+
+- 🌱 I’m currently learning Backend, Frontend
+- 📫 How to reach me: email
+
+<h3> My skills </h3>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=justeel&show_icons=true&theme=radical&title_color=8E2DE2&text_color=aaa&icon_color=8E2DE2">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justeel&theme=radical&title_color=8E2DE2&text_color=fff)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+&nbsp; <a href="mailto:email" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
